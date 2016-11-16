@@ -1,0 +1,103 @@
+Unnamed: 0,10
+access,
+accommodates,6.0
+amenities,"{Internet,""Wireless Internet"",""Free Parking on Premises"",""Elevator in Building"",Heating,""Family/Kid Friendly""}"
+availability_30,0
+availability_365,0
+availability_60,0.0
+availability_90,0
+bathrooms,1.0
+bed_type,Real Bed
+bedrooms,1.0
+beds,3.0
+calculated_host_listings_count,1.0
+calendar_last_scraped,2016-07-04
+calendar_updated,6 months ago
+cancellation_policy,strict
+city,Amsterdam Zuid-Oost
+cleaning_fee,$50.00
+country,Netherlands
+country_code,NL
+description,"Dear Guest, We offer a modern cosy apartment in Amsterdam South East. It's the outskirts of the city, but the metro will take you to the historical town center of Amsterdam in just 20 minutes!"
+experiences_offered,none
+extra_people,$0.00
+first_review,2015-05-07
+guests_included,1
+has_availability,
+host_about,
+host_acceptance_rate,
+host_has_profile_pic,t
+host_id,19765075
+host_identity_verified,f
+host_is_superhost,f
+host_listings_count,1.0
+host_location,NL
+host_name,JLarry
+host_neighbourhood,
+host_picture_url,https://a1.muscache.com/im/users/19765075/profile_pic/1407678291/original.jpg?aki_policy=profile_x_medium
+host_response_rate,
+host_response_time,
+host_since,2014-08-10
+host_thumbnail_url,https://a1.muscache.com/im/users/19765075/profile_pic/1407678291/original.jpg?aki_policy=profile_small
+host_total_listings_count,1.0
+host_url,https://www.airbnb.com/users/show/19765075
+host_verifications,"['email', 'phone', 'reviews']"
+house_rules,
+id,5870618
+instant_bookable,f
+interaction,
+is_location_exact,f
+jurisdiction_names,Amsterdam
+last_review,2015-05-07
+last_scraped,2016-07-04
+last_searched,
+latitude,52.3231902801
+license,
+listing_url,https://www.airbnb.com/rooms/5870618
+longitude,4.9722984057600002
+market,Amsterdam
+maximum_nights,1125.0
+medium_url,https://a1.muscache.com/im/pictures/73132023/21165ccc_original.jpg?aki_policy=medium
+minimum_nights,1.0
+monthly_price,
+name,Cosy Apartment + Wifi
+neighborhood_overview,
+neighbourhood,
+neighbourhood_cleansed,Bijlmer-Oost
+neighbourhood_group_cleansed,
+notes,
+number_of_reviews,1.0
+picture_url,https://a1.muscache.com/im/pictures/73132023/21165ccc_original.jpg?aki_policy=large
+price,$251.00
+property_type,Apartment
+region_id,
+region_name,
+region_parent_id,
+region_parent_name,
+region_parent_parent_id,
+region_parent_parent_name,
+require_guest_phone_verification,f
+require_guest_profile_picture,f
+requires_license,f
+review_scores_accuracy,
+review_scores_checkin,
+review_scores_cleanliness,
+review_scores_communication,
+review_scores_location,
+review_scores_rating,
+review_scores_value,
+reviews_per_month,0.070000000000000007
+room_type,Entire home/apt
+scrape_id,20160704013910.0
+security_deposit,$200.00
+smart_location,"Amsterdam Zuid-Oost, Netherlands"
+space,
+square_feet,
+state,Noord-Holland
+street,"Harriët Freezerstraat, Amsterdam Zuid-Oost, Noord-Holland 1103, Netherlands"
+summary,"Dear Guest, We offer a modern cosy apartment in Amsterdam South East. It's the outskirts of the city, but the metro will take you to the historical town center of Amsterdam in just 20 minutes!"
+thumbnail_url,https://a1.muscache.com/im/pictures/73132023/21165ccc_original.jpg?aki_policy=small
+transit,
+weekly_price,
+xl_picture_url,https://a1.muscache.com/im/pictures/73132023/21165ccc_original.jpg?aki_policy=x_large
+zipcode,1103

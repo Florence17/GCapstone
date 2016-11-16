@@ -67,4 +67,4 @@ Data
    3.81 GB; CSV files;
    Including 43 cities' AirBnb listings(1.55 GB) and reviews(2.26 GB) in recent years
 4) Sample data:
-   Please see the two csv files in the data folder; They are listings and reviews for the city of Amsterdam, Netherlands.
+   Please see the two csv files in the data folder; They are 10 sample listings and 10 sample reviews.
