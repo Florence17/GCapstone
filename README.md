@@ -1,2 +1,2 @@
 # GCapstone
-Galvanize Capstone Project 11/2016-12/2016
+Galvanize Data Science Immersive Program--Capstone Project 11/2016
